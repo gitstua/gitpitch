@@ -1,10 +1,19 @@
-# Flux 
+# Markdown to presentation 
 
-An application architecture for React
+Using [gitpitch.com](https://gitpitch.com) to avoid doing another PPTX file from scratch...
 
 ---
 
-### Flux Design
+### it supports code
+
+```
+{
+	write-output "it works
+}
+```
+
+---
+
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
